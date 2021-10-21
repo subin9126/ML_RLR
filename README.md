@@ -6,4 +6,4 @@ Implementation of glmnet for RLR.
 * Use Train_and_Predict_glmnet.m to construct a model from a training dataset and evaluate its performance on an independent test dataset.
 
 ### Acknowledgements
-This code uses glmnet_matlab which cam be found here (https://web.stanford.edu/~hastie/glmnet_matlab/)
+This code uses glmnet_matlab which can be downloaded here (https://web.stanford.edu/~hastie/glmnet_matlab/)
