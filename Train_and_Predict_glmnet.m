@@ -1,5 +1,5 @@
-%  Modified from
-%  'Made180801_100rep_TrainSetcvglmnet_PredSetcvglmnetPredict_CODE5.m'
+%  Trains a glmnet model on a training dataset.
+%  Tests performance of the model on an independent prediction dataset.
 
 clear
 
