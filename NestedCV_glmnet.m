@@ -1,5 +1,4 @@
-% Modified from: 'Made180823_nestedCV_cvglmnetcvglmnetPredict.m'
-
+% Performs nested cross-validation of a glmnet model.
 
 clear
 
